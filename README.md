@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'am fullstack developer** is a ✨ _special_ ✨ repository for introduce my self!!
+**I'am fullstack developer**, this is a ✨ _special_ ✨ repository for introduce my self!!
 
 - 🔭 I’m currently working on @hacktiv8
 - 🌱 I’m currently learning Javascript
